@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tGemara
 - 👀 I’m interested in web and mobile app development
-- 🌱 I’m currently learning React
+- 🌱 I’m  a software developer 
 
 
 <!---
